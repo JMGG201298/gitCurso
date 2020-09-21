@@ -1,0 +1,46 @@
+body{
+    padding: 0;
+    margin: 0%;
+}
+header{
+    width: 100%;
+    background-color: yellow;
+    height: auto;
+    margin: 0;
+    text-align: center;
+    align-items: center;
+}
+header h2{
+    color: #0C952D;
+    
+}
+header h3{
+    color: black;
+}
+    
+header img:nth-child(1){
+    width: 30%;
+    height: 100%;
+    display: inline;
+}
+header .tituloHeader{
+    width: 40%;
+    height: 100%;
+    display: inline;
+    background-color: blue;
+}
+header img:nth-child(3){
+    width: 20%;
+    height: 100%;
+    display: inline;
+}
+header img:nth-child(4){
+    width: 10%;
+    height: 100%;
+    display: inline;
+}
+nav{
+    background-color: black;
+   
+}
+

@@ -1,0 +1,46 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: white;
+    width: 100%;
+    height: auto;
+}
+.logoTec{
+    width: 20%;
+    margin: 5% 5%;
+}
+.logoTec img{
+    width: 100%;
+}
+.logoSep{
+    width: 45%;
+    display: flex;
+    align-items: center;
+    
+}
+.logoSep img{
+    width: 100%;
+}
+.logoItsur{
+    width: 13%;
+    margin-left: 5%;
+}
+.logoItsur img{
+    width: 100%;
+}
+[class*="logo"]{
+    display: inline-block;
+}
+.tituloHeader{
+    background-color: #9FFF03;
+    color: black;
+    text-align: center;
+    -webkit-text-stroke: 0.25px #dfad15;
+}
+.tituloHeader h2, h3{
+    margin: 0%;
+    font-size: 30px;
+}
+
